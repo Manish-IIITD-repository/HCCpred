@@ -12,6 +12,8 @@ Kaur, H., Dhall, A., Kumar, R., & Raghava, G. P. S. (2019).
 **Identification of Platform-Independent Diagnostic Biomarker Panel for Hepatocellular Carcinoma using Large-scale Transcriptomics Data.** *bioRxiv*. 
 [https://doi.org/10.1101/758250](https://doi.org/10.1101/758250)
 
+Zenodo:-(https://doi.org/10.5281/zenodo.20140233)
+
 ---
 
 ## About the Platform
